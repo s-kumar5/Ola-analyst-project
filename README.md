@@ -94,6 +94,41 @@ This project demonstrates skills in:
 
 A perfect resume-ready Data Analyst Portfolio Project.
 
+## 📊 Power BI Dashboard Preview
+
+### 🔹 Overall Performance Dashboard
+This dashboard provides a high-level summary of total bookings, successful rides, revenue, booking status breakdown, and ride volume over time.
+
+![Overall Dashboard](Dashboard_images/overall_dashboard.png)
+
+---
+
+### 🔹 Cancellation Analysis Dashboard
+This dashboard shows ride cancellations by customers and drivers along with detailed cancellation reasons.
+
+![Cancellation Dashboard](Dashboard_images/cancellation_dashboard.png)
+
+---
+
+### 🔹 Revenue Analysis Dashboard
+This dashboard highlights revenue distribution by payment method and top customers by total booking value.
+
+![Revenue Dashboard](Dashboard_images/revenue_dashboard.png)
+
+---
+
+### 🔹 Vehicle Type Performance Dashboard
+This dashboard compares vehicle types based on booking value, successful bookings, average distance traveled, and total distance covered.
+
+![Vehicle Type Dashboard](Dashboard_images/vehicle_type_dashboard.png)
+
+---
+
+### 🔹 Ratings Analysis Dashboard
+This dashboard analyzes customer and driver ratings across different vehicle types
+
+![Ratings Dashboard](Dashboard_images/ratings_dashboard.png)
+
 👤 Author
 
 Sunil Kumar
