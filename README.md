@@ -103,10 +103,10 @@ This dashboard provides a high-level summary of total bookings, successful rides
 
 ---
 
-### 🔹 Cancellation Analysis Dashboard
-This dashboard shows ride cancellations by customers and drivers along with detailed cancellation reasons.
+### 🔹 Vehicle Type Performance Dashboard
+This dashboard compares vehicle types based on booking value, successful bookings, average distance traveled, and total distance covered.
 
-![Cancellation Dashboard](Dashboard_images/Ola%20Dashboard%20Power%20BI_Cancellation.jpg)
+![Vehicle Type Dashboard](Dashboard_images/Ola%20Dashboard%20Power%20BI_VehicleType.jpg)
 
 ---
 
@@ -117,10 +117,10 @@ This dashboard highlights revenue distribution by payment method and top custome
 
 ---
 
-### 🔹 Vehicle Type Performance Dashboard
-This dashboard compares vehicle types based on booking value, successful bookings, average distance traveled, and total distance covered.
+### 🔹 Cancellation Analysis Dashboard
+This dashboard shows ride cancellations by customers and drivers along with detailed cancellation reasons.
 
-![Vehicle Type Dashboard](Dashboard_images/Ola%20Dashboard%20Power%20BI_VehicleType.jpg)
+![Cancellation Dashboard](Dashboard_images/Ola%20Dashboard%20Power%20BI_Cancellation.jpg)
 
 ---
 
